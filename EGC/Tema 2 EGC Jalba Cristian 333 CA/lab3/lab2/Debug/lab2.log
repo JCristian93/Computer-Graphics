@@ -1,0 +1,114 @@
+﻿Build started 16.11.2014 22:14:18.
+     1>Project "C:\Users\cj\Desktop\Tema 2 EGC primus\lab3\lab2\lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Idependente /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\framework\object2d.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\framework\object3d.h(18): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\framework\object3d.h(37): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\framework\object3d.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\framework\object3d.h(55): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\framework\object3d.h(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\framework\circle2d.h(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\framework\circle2d.h(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(90): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(91): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(92): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(93): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(95): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(96): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(98): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(144): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(145): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(149): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(167): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(71): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(202): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(214): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(226): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(238): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(359): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(363): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(370): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(376): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(442): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(450): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(454): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(458): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(462): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(466): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(470): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(490): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(498): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(502): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(506): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(510): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(514): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(518): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(538): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(546): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(550): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(554): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(558): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(562): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(566): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(587): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(595): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(599): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(603): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(607): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(611): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(615): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(634): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(637): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(640): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(643): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(647): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(650): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(653): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(656): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(706): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(711): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(713): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(717): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(747): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(759): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(770): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(836): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(839): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(842): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(845): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(849): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(852): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(855): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(858): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(904): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(907): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(968): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(971): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(974): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(977): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(981): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(984): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(987): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(990): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(1037): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(1040): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(1056): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(1058): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(1084): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(1085): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\cj\desktop\tema 2 egc primus\lab3\lab2\main.cpp(1111): warning C4305: 'argument' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cj\Desktop\Tema 2 EGC primus\lab3\Debug\lab2.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cj\Desktop\Tema 2 EGC primus\lab3\Debug\lab2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cj\Desktop\Tema 2 EGC primus\lab3\Debug\lab2.lib" /MACHINE:X86 Debug\DrawingWindow.obj
+         Debug\Transform2D.obj
+         Debug\Transform3D.obj
+         Debug\Visual2D.obj
+         Debug\main.obj
+         lab2.vcxproj -> C:\Users\cj\Desktop\Tema 2 EGC primus\lab3\Debug\lab2.exe
+     1>Done Building Project "C:\Users\cj\Desktop\Tema 2 EGC primus\lab3\lab2\lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.05

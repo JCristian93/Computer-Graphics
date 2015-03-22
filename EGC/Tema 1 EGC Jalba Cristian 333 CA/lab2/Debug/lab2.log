@@ -1,0 +1,48 @@
+﻿Build started 02.11.2014 21:09:21.
+     1>Project "C:\Users\cj\Desktop\Tema 1 EGC reloaded\lab2_EGC_student\lab2_ex1_v2\lab2\lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Idependente /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(236): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(243): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(250): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(264): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(351): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(359): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(411): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(456): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(491): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(526): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(546): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(566): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(586): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(606): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(699): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(716): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\cj\desktop\tema 1 egc reloaded\lab2_egc_student\lab2_ex1_v2\lab2\main.cpp(808): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cj\Desktop\Tema 1 EGC reloaded\lab2_EGC_student\lab2_ex1_v2\Debug\lab2.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cj\Desktop\Tema 1 EGC reloaded\lab2_EGC_student\lab2_ex1_v2\Debug\lab2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cj\Desktop\Tema 1 EGC reloaded\lab2_EGC_student\lab2_ex1_v2\Debug\lab2.lib" /MACHINE:X86 Debug\DrawingWindow.obj
+         Debug\Transform2D.obj
+         Debug\Visual2D.obj
+         Debug\main.obj
+         lab2.vcxproj -> C:\Users\cj\Desktop\Tema 1 EGC reloaded\lab2_EGC_student\lab2_ex1_v2\Debug\lab2.exe
+     1>Done Building Project "C:\Users\cj\Desktop\Tema 1 EGC reloaded\lab2_EGC_student\lab2_ex1_v2\lab2\lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.46
